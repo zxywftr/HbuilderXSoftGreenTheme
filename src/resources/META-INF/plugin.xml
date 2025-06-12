@@ -21,17 +21,9 @@ https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
      tag.
          Guidelines:
      https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-     <description><![CDATA[
-          HbuilderXSoftGreenTheme
-        ]]></description>
-     <!-- Short summary of new features and bugfixes in the latest plugin version.
-         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between
-     <![CDATA[  ]]> tags. -->
+     <description><![CDATA[ Hbuilder X Soft Green Theme  ]]></description>
 
-     <change-notes><![CDATA[
-       Initial release of the HbuilderXSoftGreenTheme theme.
-       ]]>
-     </change-notes>
+     <change-notes><![CDATA[Hbuilder X Soft Green Theme theme. ]]></change-notes>
 
      <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->

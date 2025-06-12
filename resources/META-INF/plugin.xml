@@ -22,7 +22,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="unixy.HbuilderXSoftGreenTheme" path="/resources/theme/HbuilderXSoftGreenTheme.theme.json"/>
+        <themeProvider id="unixy.HbuilderXSoftGreenTheme" path="resources/theme/HbuilderXSoftGreenTheme.theme.json"/>
     </extensions>
 
 </idea-plugin>

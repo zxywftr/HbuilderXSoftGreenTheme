@@ -1,0 +1,28 @@
+<idea-plugin>
+    <id>HbuilderXSoftGreenTheme</id>
+    <name>HbuilderX Soft Green Theme</name>
+    <version>1.0</version>
+    <vendor email="1394205959@qq.com" url="https://github.com/zxywftr">unixy</vendor>
+
+    <description><![CDATA[
+      A soft green theme derived from HbuilderX for jetbrains IDEs.
+    ]]></description>
+
+    <change-notes><![CDATA[
+      Initial release of the theme.
+    ]]>
+    </change-notes>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="unixy.HbuilderXSoftGreenTheme" path="../resources/theme/HbuilderXSoftGreenTheme.theme.json"/>
+    </extensions>
+
+</idea-plugin>

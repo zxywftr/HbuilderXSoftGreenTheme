@@ -30,6 +30,6 @@ https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
      <depends>com.intellij.modules.platform</depends>
 
      <extensions defaultExtensionNs="com.intellij">
-          <themeProvider id="demo" path="/theme/HbuilderXSoftGreenTheme.theme.json" />
+          <themeProvider id="HbuilderXSoftGreenTheme" path="../theme/HbuilderXSoftGreenTheme.theme.json" />
      </extensions>
 </idea-plugin>

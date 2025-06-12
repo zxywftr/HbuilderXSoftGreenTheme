@@ -28,6 +28,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="demo" path="/theme/demo.theme.json"/>
+        <themeProvider id="demo" path="/theme/HbuilderXSoftGreenTheme.theme.json"/>
     </extensions>
 </idea-plugin>

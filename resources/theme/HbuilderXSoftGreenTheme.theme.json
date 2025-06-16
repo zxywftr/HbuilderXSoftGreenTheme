@@ -98,6 +98,9 @@
       "focusedBorderColor": "colorSuccess",
       "separatorColor": "separatorColor"
     },
+    "Viewport": {
+      "foreground": "#577909"
+    },
     "ScrollBar": {
       "Transparent": {
         "thumbColor": "scrollBarPrimary",

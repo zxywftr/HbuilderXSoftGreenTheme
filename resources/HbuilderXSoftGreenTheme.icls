@@ -69,7 +69,7 @@
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1b9f35" />
+        <option name="FOREGROUND" value="db7869" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -581,7 +581,6 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="EFFECT_COLOR" value="268bd2" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -765,7 +764,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -789,6 +788,13 @@
       <value>
         <option name="FOREGROUND" value="577909" />
         <option name="BACKGROUND" value="fffae8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="577909" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -854,7 +860,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -865,6 +871,7 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="577909" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -893,8 +900,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
-        <option name="BACKGROUND" value="fffae8" />
+        <option name="FOREGROUND" value="499504" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -914,7 +920,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
         <option name="BACKGROUND" value="fffae8" />
       </value>
     </option>
@@ -931,7 +937,7 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="499504" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -942,7 +948,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1408,7 +1414,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1488,7 +1494,7 @@
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="cfb56a" />
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="JFLEX.COMMENT">
@@ -2296,7 +2302,7 @@
     </option>
     <option name="PACKAGE_PRIVATE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="PHP_COMMENT">
@@ -2405,7 +2411,7 @@
     </option>
     <option name="PRIVATE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
@@ -2473,7 +2479,7 @@
     </option>
     <option name="PROTECTED_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="PROTOCOL_REFERENCE">
@@ -2484,7 +2490,7 @@
     </option>
     <option name="PUBLIC_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="3e4b53" />
+        <option name="FOREGROUND" value="577909" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -3208,6 +3214,12 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="577909" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="db7869" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
